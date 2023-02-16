@@ -3,8 +3,8 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:47179",
-      "sslPort": 44359
+      "applicationUrl": "http://localhost:36503",
+      "sslPort": 44393
     }
   },
   "profiles": {
@@ -16,9 +16,8 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "LogVisualizer": {
+    "BlazorGitHubPagesDemo": {
       "commandName": "Project",
-      "dotnetRunMessages": "true",
       "launchBrowser": true,
       "inspectUri": "{wsProtocol}://{url.hostname}:{url.port}/_framework/debug/ws-proxy?browser={browserInspectUri}",
       "applicationUrl": "https://localhost:5001;http://localhost:5000",
